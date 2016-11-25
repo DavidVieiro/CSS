@@ -1,0 +1,29 @@
+/*h1:only-child {
+	color: red;
+}
+p:nth-child(even) {
+	background: pink;
+}
+p:nth-child(odd) {
+	background: gray;
+}
+
+:first-line {
+	color: red;
+}
+p:first-letter{
+	background: gray;
+}
+p:after {
+	content: " Fin de parrafo";
+	color: blue;
+}
+
+h1:first-letter, p:first-letter {
+	color: green;
+}
+*/
+h1:before {
+	content:url(../imagenes/Koala.jpg);
+}
+
