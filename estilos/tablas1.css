@@ -11,7 +11,10 @@
 	font: bold 20px Arial;
 }
 #tabla2 td {
-	font: italic small-caps 200%/300% Arial;
+	font-style: italic;
+	font-variant: small-caps;
+	font-size: 200%;
+	line-height: 300%;
 }
 #tabla1 caption {
 	font: 30px/400% Verdana; 
