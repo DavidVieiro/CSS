@@ -26,10 +26,10 @@ p:after {
 	color: red;
 	background: gray;
 }
-table:first-child tr:nth-child(odd) {
+#table1 tr:nth-child(odd) {
 	background: gray;
 }
-table:first-child tr:nth-child(even) {
+#table1 tr:nth-child(even) {
 	background: pink;
 }
 table:first-child tr:first-child {
