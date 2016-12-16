@@ -22,6 +22,5 @@ h1 {
 }
 
 p {
-	border: 10px double;
-	border-color: orange;
+	border: 10px orange double;
 }
