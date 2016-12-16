@@ -1,5 +1,5 @@
 /*
-	h1 borde superior inferior verde, izq der rosa
+	h1 borde superior inferior azul, izq der rosa
 	tabla borde verde
 	parrafo borde naranja
 	
@@ -8,7 +8,7 @@
 h1 {
 	width: 50%;
 	border: 1px solid;
-	border-color: green pink;
+	border-color: blue pink;
 	margin-bottom: 100px;
 }
 
