@@ -32,7 +32,7 @@ p:after {
 #table1 tr:nth-child(even) {
 	background: pink;
 }
-table:first-child tr:first-child {
+#table1 tr:first-child {
 	content: url(../imagenes/favicon.ico);
 }
 #tabla2:after{

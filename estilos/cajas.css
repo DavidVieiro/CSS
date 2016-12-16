@@ -1,0 +1,27 @@
+/*
+	h1 borde superior inferior verde, izq der rosa
+	tabla borde verde
+	parrafo borde naranja
+	
+*/
+
+h1 {
+	width: 50%;
+	border: 1px solid;
+	border-color: green pink;
+	margin-bottom: 100px;
+}
+
+#tabla1 , #tabla1 td {
+	border: 1px solid;
+	border-color: green;
+}
+#tabla1 td{
+	padding: 15px;
+}
+
+p {
+	margin: 5px;
+	border: 10px double;
+	border-color: orange;
+}
