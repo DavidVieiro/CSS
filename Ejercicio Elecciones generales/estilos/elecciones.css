@@ -19,6 +19,9 @@ p {
 	padding: 2%;
 	border-style: double;
 	border-width: 10px;
+	/*
+	boder: 10px double;
+	*/
 	border-color: red green;
 	color: blue;
 }
