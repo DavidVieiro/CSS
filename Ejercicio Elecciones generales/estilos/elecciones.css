@@ -1,0 +1,43 @@
+
+body {
+	background-image: url(../imagenes/elecciones-generales-2011.jpg);
+	background-repeat:no-repeat;
+	background-position: top center;
+}
+
+p {
+	text-align: center;
+	color: red;
+	font-family: Comic Sans MS;
+	font-size: 200%;
+}
+
+#uno {
+	background-color: lightgreen;
+	width: 50%;
+	float: left;
+	padding: 2%;
+	border-style: double;
+	border-width: 10px;
+	border-color: red green;
+	color: blue;
+}
+
+#dos {
+	background-image: url(../imagenes/fondo.png);
+	width: 40%;
+	float: right;
+	padding: 1%;
+	border-style: dashed;
+}
+
+div h1 {
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+div h2 {
+	font-size: 200%;
+}
