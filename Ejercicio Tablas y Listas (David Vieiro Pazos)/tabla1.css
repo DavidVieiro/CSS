@@ -1,0 +1,50 @@
+/* David Vieiro Pazos */
+
+caption {
+	color: LightGreen;
+}
+
+#una {
+	border: 3px solid green;
+	border-collapse: collapse;
+}
+
+#una td {
+	border: 2px solid red;
+}
+
+#dos {
+	border-collapse: collapse;
+}
+#dos td {
+	border: 15px solid orange;
+}
+
+#tres {
+	border: 2px solid green;
+}
+
+#tres td {
+	border: 15px solid yellow;
+}
+
+.primera {
+	color: red;
+	font-style: italic;
+}
+#una td::first-letter, #dos td::first-letter , #tres td::first-letter { 
+    font-size: 200%;
+}
+
+#cuatro thead {
+	background-color: red;
+	font-weight: bold;
+}
+
+#cuatro tfoot {
+	background-color: yellow;
+}
+
+#cuatro tbody {
+	background-color: gray;
+}

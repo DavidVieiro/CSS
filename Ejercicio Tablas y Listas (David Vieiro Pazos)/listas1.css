@@ -1,0 +1,31 @@
+/* David Vieiro Pazos */
+.murcia {
+	font-weight: bold;
+	color: green;
+}
+
+#una {
+	list-style-type: lower-alpha;
+}
+
+#dos li {
+	list-style-position: inside;
+	background:yellow;
+	list-style-type: lower-roman;
+}
+
+#tres {
+	list-style-image: url(icono.png);
+}
+
+#cuatro li {
+	list-style-type: none;
+	display: inline;
+	background-color: yellow;
+	padding: 10px;
+	margin-right: 40px;
+	
+}
+#cuatro {
+	margin-top: 40px;
+}

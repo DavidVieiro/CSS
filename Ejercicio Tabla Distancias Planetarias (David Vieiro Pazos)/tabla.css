@@ -1,0 +1,68 @@
+/* David Vieiro Pazos
+	
+	2A577B Borde Tabla
+	4591AD Azul Cabecera
+	FFD800 Amarillo
+	C2F64D Verde Hover
+	AEE239 Verde Claro
+	92C428 Verde Oscuro
+	124A74 Azul Caption
+*/
+
+table {
+	border: 1px solid #2A577B;
+	border-collapse: collapse;
+	
+}
+
+thead th {
+	background-color: 4591AD;
+	color: white;
+	font-weight: bold;
+	border: 1px solid #2A577B;
+	padding: 3px;
+}
+
+tfoot td{
+	background-color: 4591AD;
+	color: white;
+	text-align: center;
+	border: 1px solid #2A577B;
+	padding: 3px;
+}
+
+.fimpar {
+	background-color: AEE239;
+}
+
+tr {
+	background-color: 92C428;
+}
+
+tr:hover {
+	background-color: FFD800;
+}
+
+td {
+	border: 1px dotted #2A577B;
+	padding: 3px;
+}
+
+caption {
+	caption-side: bottom;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: 124A74;
+	padding: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	background-color: C2F64D;
+}
+
+

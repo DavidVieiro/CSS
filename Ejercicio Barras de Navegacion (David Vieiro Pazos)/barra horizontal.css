@@ -1,0 +1,22 @@
+/* David Vieiro Pazos */
+a {
+	color: white;
+	text-decoration: none;
+}
+
+li {
+	background-color: cyan;
+	float: left;
+	padding: 10px;
+	list-style-type: none;
+	border-right: 2px solid #CCC;
+	font-weight: bold;
+}
+
+a:hover {
+	color: blue;
+}
+
+li:last-child {
+	border-right: 0px;
+}
