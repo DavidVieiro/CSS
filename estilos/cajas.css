@@ -17,10 +17,16 @@ h1 {
 	border-color: green;
 	color: red;
 }
-#tabla1 td{
+#tabla1 td {
 	padding: 15px;
 }
 
 p {
 	border: 10px orange double;
+}
+
+body {
+	background-image: url(../imagenes/Koala.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
 }
