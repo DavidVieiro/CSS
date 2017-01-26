@@ -1,0 +1,32 @@
+
+body {
+	background-color: rgb(253, 219, 189);
+	font-family: sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: DarkGray;
+	text-transform: uppercase;
+}
+
+/* Color primera letra rgb(201, 165, 104)*/
+p {
+	float: left;
+	width: 170px;
+	height: 200px;
+	border: 2px dashed rgb(201, 165, 104);
+	text-align: justify;
+	margin: 20px;
+	padding: 10px;
+	font-style: italic;
+	background-color: rgb(242, 208, 171);
+}
+
+p::first-letter {
+	font-size: 300%;
+	float: left;
+	font-style: normal;
+	color: rgb(201, 165, 104);
+	margin-top: 0px;
+}
