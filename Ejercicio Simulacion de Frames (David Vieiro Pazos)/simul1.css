@@ -1,0 +1,22 @@
+#indice {
+	background-color: cyan;
+	width: 15%;
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	bottom: 5%
+}
+
+#contenido {
+	background-color: orange;
+	position: absolute;
+	top: 20%;
+	left: 25%;
+	bottom: 5%;
+	right: 5%;
+	overflow: hidden;
+}
+
+#apartado1, #apartado2 {
+	height: 100%;
+}

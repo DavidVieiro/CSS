@@ -1,0 +1,50 @@
+
+.bloque {
+	width: 23%;
+	float: left;
+	border-left: 2px dashed LightGray;
+	border-right: 2px dashed LightGray;
+	margin: 0px 5px;
+	padding: 0px 5px;
+}
+
+h1 {
+	background-color: DarkGray;
+	margin: 0px;
+}
+
+h2 {
+	text-align: right;
+	background-color: LightGray;
+	margin: 0px;
+	margin-bottom: 20px;
+	border-bottom: 2px dashed DarkGray;
+	padding-bottom: 5px;
+}
+
+h3 {
+	text-align: center;
+	background-color: LightGray;
+	padding: 8px;
+	text-transform: uppercase;
+	margin: 0px;
+}
+
+h4 {
+	background-color: DarkGray;
+	text-align: right;
+	padding-right: 5px;
+	color: white;
+	margin: 0px;
+}
+
+div div {
+	border: 1px solid DarkGray;
+	margin: 4px 0px;
+}
+
+p {
+	padding: 5px 15px;
+	overflow: auto;
+	margin: 0px;
+}
