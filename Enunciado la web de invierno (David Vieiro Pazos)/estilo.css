@@ -1,0 +1,78 @@
+* {
+	font-family: Verdana;
+	font-size: 8pt;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+body {
+	background-image: url(images/fondo.gif);
+	
+}
+
+header {
+	background-image: url(images/cabecera.jpg);
+	background-repeat: no-repeat;
+	height: 106px;
+	
+}
+
+#contenedor {
+	width: 700px;
+	background-color: white;
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 590px;
+}
+
+nav {
+	background-color: LightYellow;
+	border-bottom: 5px solid LightGray;
+	border-top: 5px solid LightGray;
+	
+}
+
+section {
+	float: left;
+	width: 465px;
+	
+	padding: 10px;
+}
+
+section h1 {
+	font-size: 200%;
+	margin-bottom: 15px;
+}
+
+aside {
+	float: left;
+	width: 210px;
+	border-left: 5px solid LightGray;
+	border-bottom: 5px solid LightGray;
+	background-color: #EBF2FE;
+}
+
+.cuerpolateral {
+	padding: 10px;
+}
+
+footer {
+	float: left;
+	width: 690px;
+	text-align: right;
+	color: Gray;
+	padding-right: 10px;
+	
+}
+
+.titlat {
+	background-color: #68729E;
+	color: white;
+	text-transform: uppercase;
+	padding: 5px 3px;
+}
+
+article {
+	margin: 10px 0px;
+}
